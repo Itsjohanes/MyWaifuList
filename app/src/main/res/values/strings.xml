@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWaifuList</string>
+    <string name="detail_waifu">detail waifu</string>
+    <string name="waifu_name">Waifu Name</string>
+</resources>
